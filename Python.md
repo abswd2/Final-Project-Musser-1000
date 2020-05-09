@@ -8,6 +8,6 @@ Python is an interpreted, high-level, general-purpose programming language. Crea
 
 ### Other languages
 - [JavaScript](https://github.com/abswd2/Final-Project-Musser-1000/blob/master/JavaScript)
-- [JQuery]()
-- [Swift]()
-- [C]()
+- [JQuery](https://github.com/abswd2/Final-Project-Musser-1000/blob/master/JQuery.md)
+- [Swift](https://github.com/abswd2/Final-Project-Musser-1000/blob/master/Swift.md)
+- [C](https://github.com/abswd2/Final-Project-Musser-1000/blob/master/C.md)
