@@ -8,7 +8,7 @@ One or more images that are hosted elsewhere on the web.
 `document.write('Hello, world!');`
 
 ### Other languages
-- [Python]()
+- [Python](https://github.com/abswd2/Final-Project-Musser-1000/blob/master/Python.md)
 - [JQuery]()
 - [Swift]()
 - [C]()
