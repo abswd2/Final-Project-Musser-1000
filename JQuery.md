@@ -7,7 +7,7 @@ jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and 
 `$("body").append("Hello world!");`
 
 ### Other languages
-- [JavaScript](https://github.com/abswd2/Final-Project-Musser-1000/blob/master/JavaScript)
+- [JavaScript](https://github.com/abswd2/Final-Project-Musser-1000/blob/master/JavaScript.md)
 - [Python](https://github.com/abswd2/Final-Project-Musser-1000/blob/master/Python.md)
-- [Swift]()
-- [C]()
+- [Swift](https://github.com/abswd2/Final-Project-Musser-1000/blob/master/Swift.md)
+- [C](https://github.com/abswd2/Final-Project-Musser-1000/blob/master/C.md)
