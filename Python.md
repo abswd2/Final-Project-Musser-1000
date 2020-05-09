@@ -3,9 +3,6 @@ Python is an interpreted, high-level, general-purpose programming language. Crea
 
 [Inventor](https://upload.wikimedia.org/wikipedia/commons/e/e2/Guido-portrait-2014-drc.jpg)
 
-One or more images that are hosted in the GitHub repo.
-One or more images that are hosted elsewhere on the web.
-
 ## How you say it!
 `print "Hello, world!"`
 
