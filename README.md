@@ -1,2 +1,2 @@
 # Learn how to code hello in different Langauges! 
-There's a few languages out there, so choose between [JavaScript](https://www.example.com), [Python](https://www.example.com), [JQuery](https://www.example.com), [Swift](https://www.example.com), [C](https://www.example.com)
+There's a few languages out there, so choose between [JavaScript](https://github.com/abswd2/Final-Project-Musser-1000/blob/master/JavaScript.md), [Python](https://github.com/abswd2/Final-Project-Musser-1000/blob/master/Python.md), [JQuery](https://github.com/abswd2/Final-Project-Musser-1000/blob/master/JQuery.md), [Swift](https://github.com/abswd2/Final-Project-Musser-1000/blob/master/Swift.md), [C](https://github.com/abswd2/Final-Project-Musser-1000/blob/master/C.md)
